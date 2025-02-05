@@ -1,4 +1,4 @@
-<h1 align="center">Share Articles on Instagram Stories</h1>
+<h1 align="center">Any Easy Way to Share Articles on Stories</h1>
 
 <p align="center">
     <img src="example.png" width="800px">
@@ -9,7 +9,7 @@
 ## Setup
 Download the repo:
 ```
-$ git clone https://github.com/jpjacobpadilla/Share-Articles-On-Instagram-Stories.git
+$ git clone https://github.com/jpjacobpadilla/Article-Share.git
 ```
 
 Go into the repository:
