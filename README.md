@@ -4,7 +4,7 @@
     <img src="example.png" width="800px">
 </p>
 
-<p align="center">A tool that creates beautiful Instagram stories to share articles/websites with!</p>
+<p align="center">A tool that creates beautiful stories to share articles/websites with!</p>
 
 ## Setup
 Download the repo:
@@ -14,7 +14,7 @@ $ git clone https://github.com/jpjacobpadilla/Article-Share.git
 
 Go into the repository:
 ```
-$ cd Share-Articles-On-Instagram-Stories
+$ cd Article-Share
 ```
 
 Create a virtual environment to store the project dependencies
