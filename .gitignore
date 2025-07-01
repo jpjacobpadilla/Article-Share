@@ -1,2 +1,5 @@
-venv/
+images/
+
+.venv/
+
 .DS_Store
