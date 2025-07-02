@@ -45,5 +45,10 @@ Example:
 $ python generate.py https://jacobpadilla.com/articles/Python-Flask-Login-System
 ```
 
+Or with UV:
+```
+$ uv run generate.py https://jacobpadilla.com/articles/Python-Flask-Login-System
+```
+
 ## Contributing
 Contributions are welcome! If you have a suggestion or an issue, please use the issue tracker to let me know.
