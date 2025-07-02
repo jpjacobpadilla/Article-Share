@@ -44,7 +44,7 @@ body {
     border-radius: 0.85714rem;
     margin: 0;
     overflow: hidden;
-    border: solid 1px rgb(34, 34, 34);
+    border: solid 2px rgb(98, 98, 98);
 }
 
 #article figcaption {
