@@ -1,4 +1,4 @@
-<h1 align="center">Any Easy Way to Share Articles on Stories</h1>
+<h1 align="center">An Easy Way to Share Articles on Stories</h1>
 
 <p align="center">
     <img src="example.png" width="800px">
@@ -35,7 +35,7 @@ $ pip install -r requirements.txt
 Generate an image!
 
 This project accepts a website url and then parses the page to get the `og:image` meta tag.
-It will then generate the image and save it image in the `images` directory.
+It will then generate the image and save it in the `images` directory.
 ```
 $ python generate.py [url here without the brackets]
 ```
