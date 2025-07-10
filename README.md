@@ -17,27 +17,27 @@ Go into the repository:
 $ cd Article-Share
 ```
 
-Create a virtual environment to store the project dependencies
+Create a virtual environment to store the project dependencies:
 ```
 $ python -m venv venv
 ```
 
-Activate the environment
+Activate the environment:
 ```
 $ source venv/bin/activate
 ```
 
-Install the dependencies
+Install the dependencies:
 ```
 $ pip install -r requirements.txt
 ```
 
 Generate an image!
 
-This project accepts a website url and then parses the page to get the `og:image` meta tag.
+This project accepts a website URL and then parses the page to get the `og:image` meta tag.
 It will then generate the image and save it in the `images` directory.
 ```
-$ python generate.py [url here without the brackets]
+$ python generate.py [URL here without the brackets]
 ```
 
 Example:
